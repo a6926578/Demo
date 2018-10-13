@@ -6,5 +6,13 @@ public class Hello
 	System.out.println("EDG caibi");
 	System.out.println("IG new b");
 	
+	
+	System.out.println("IG new b");
+	System.out.println("IG new b");
+	System.out.println("IG new b");
+	
+	System.out.println("IG new b");
+	System.out.println("IG new b");
+	
 	}
 }
