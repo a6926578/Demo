@@ -4,6 +4,6 @@ public class Hello
 	
 	System.out.println("KT NEW B");
 	System.out.println("EDG caibi");
-
+	System.out.println("IG new b");
 	}
 }
